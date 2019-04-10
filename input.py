@@ -1,0 +1,5 @@
+#name = input('Enter the name: ')
+#print('Hi,', name)
+x = input('Enter your height: ')
+y = input('Enter your weight: ')
+print(x,y)
